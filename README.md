@@ -40,7 +40,9 @@ Step 4: go to the requairement.py file and Run
 
 *  pip install -r requirements.txt (Python 2), or pip3 install -r requirements.txt (Python 3)
 
-Step 5: Run command python3 manage.py runserver 
+Step 5: Run command to start the server
+
+*  python3 manage.py runserver 
 
 # API Documentation
 
